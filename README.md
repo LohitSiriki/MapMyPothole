@@ -8,3 +8,5 @@ The main info we are going to need from the .csv is the latitude and longitude. 
 The map i've used to map the pothole is osm map.
 
 Future work can be completely automating this by detecting a pothole real-time and mapping it to your current location.
+
+The images and the .csv are just sample images.
